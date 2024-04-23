@@ -1,0 +1,1 @@
+web gunicorn crud_classy.wsgi:application --log-file -
